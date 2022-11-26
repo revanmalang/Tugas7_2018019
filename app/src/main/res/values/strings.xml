@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Restoran</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_menu">Restoran yang cocok disantap bersama pasangan anda</string>
+    <string name="pilihan_makanan">Makanan dan Minuman dengan Kualitas Terjamin </string>
+    <string name="price">Rp. 100.000 </string>
+    <string name="Harga_makanan">Rp. 100.000 </string>
+
+    <string-array name="restoran">
+        <item>Kentang</item>
+        <item>Minuman ES</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 10.000</item>
+        <item>Rp. 15.000</item>
+    </string-array>
+</resources>
